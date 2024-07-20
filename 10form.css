@@ -1,0 +1,31 @@
+legend{
+    text-transform: capitalize;
+}
+#me{
+    margin-top: 8px;
+}
+#us{
+    margin-top: 10px;
+}
+#run{
+    margin-top: 8px;
+}
+#dun{
+    margin-top: 8px;
+}
+#sun{
+    margin-top: 8px;
+}
+#bun{
+    margin-top: 10px;
+}
+fieldset{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10%;
+    height: 300px;
+}
+p{
+    text-transform: capitalize;
+    text-indent: 20px;
+}
